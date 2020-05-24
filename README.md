@@ -3,6 +3,9 @@ Data Science Professional Certificate by HardvardX Capstone project: Movie recom
 
 Files for the Movielens dataset's Movie recommendation system:
 
-movielens_final.R     --> R code for the Machine learning algorithm 
+
+movielens_final.R     --> R code for the Machine learning algorithm
+
 movielens_report.Rmd  --> R markdown file 
+
 movielens_report.pdf  --> PDF report of the Algorithm
